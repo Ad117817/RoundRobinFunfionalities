@@ -1,0 +1,9 @@
+Request: SUCCESS
+Delay: 0.9268247388489081 milliseconds
+
+Request: SUCCESS
+Delay: 1.1406894431012997 milliseconds
+
+Request: SUCCESS
+Delay: 1.1509552109668535 milliseconds
+

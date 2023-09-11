@@ -1,0 +1,5 @@
+NumberOfWorkers=10
+RequestPoolSize=20
+StatsDirectory=C://Users//tiwar//OneDrive//Desktop//RoundRobin/text2.txt
+AverageDelay=0.5
+FailurePercentage=12
